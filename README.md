@@ -1,5 +1,7 @@
 # GPU Check
 
+> 已并入 [System Check](https://github.com/xiongnemo/ios-system-check)（它的 GPU 页），以后在那边更新；这个仓库不再更新。
+
 一个把 iOS 游戏可能用到的图形能力逐项测一遍的小应用：每一项单独测，各自给出 PASS / FAIL / SKIP，
 以及让应用崩掉或卡住的那一项的 CRASHED / HUNG，每项一行说明。打开就按顺序全部跑完，不用点；
 “Run again” 从头再跑一遍。
